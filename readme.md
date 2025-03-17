@@ -2,9 +2,10 @@
 
 ## 📌 Overview
 This project is a simplified ride-sharing backend that demonstrates:
+- **Code Versioning** → Implement code versioning, Create a git repository and share link when done with the project.
 - **Algorithm Design** → Assigning drivers to riders based on distance and availability.
 - **API Integration** → Fetching real-time driver locations from an external geolocation API.
-- **Code Deployment** → Dockerizing and deploying the service to a cloud platform (AWS/GCP/Azure).
+- **Code Deployment** → Dockerizing and deploying the service to a cloud platform.
 
 ---
 
